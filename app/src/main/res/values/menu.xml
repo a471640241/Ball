@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="ItemArray">
+        <item>继续游戏</item>
+        <item>重新开始</item>
+        <item>上一关</item>
+        <item>下一关</item>
+        <item>背景音乐</item>
+        <item>退出游戏</item>
+        <item>游戏帮助</item>
+    </array>
+</resources>
